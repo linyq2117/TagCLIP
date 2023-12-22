@@ -1,5 +1,5 @@
 # TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training (AAAI 2024)
-[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Lin_CLIP_Is_Also_an_Efficient_Segmenter_A_Text-Driven_Approach_for_CVPR_2023_paper.html)
+:closed_book: [[arxiv paper]](https://arxiv.org/abs/2312.12828)
 
 ![images](framework.png)
 ## Reqirements
