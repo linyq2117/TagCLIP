@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tagclip-a-local-to-global-framework-to/unsupervised-semantic-segmentation-with-11)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-11?p=tagclip-a-local-to-global-framework-to)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tagclip-a-local-to-global-framework-to/unsupervised-semantic-segmentation-with-10)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-10?p=tagclip-a-local-to-global-framework-to)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tagclip-a-local-to-global-framework-to/unsupervised-semantic-segmentation-with-1)](https://paperswithcode.com/sota/unsupervised-semantic-segmentation-with-1?p=tagclip-a-local-to-global-framework-to)
 # TagCLIP: A Local-to-Global Framework to Enhance Open-Vocabulary Multi-Label Classification of CLIP Without Training (AAAI 2024)
 :closed_book: [[arxiv paper]](https://arxiv.org/abs/2312.12828)
 
